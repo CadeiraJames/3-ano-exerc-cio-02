@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "grunt": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/CadeiraJames/3-ano-exerc-cio-02#readme",
   "description": "",
   "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-sass": "^2.0.0",
     "sass": "^1.83.4"
   }
 }
