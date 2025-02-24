@@ -19,8 +19,9 @@
   "homepage": "https://github.com/CadeiraJames/3-ano-exerc-cio-02#readme",
   "description": "",
   "devDependencies": {
-    "grunt": "^1.6.1",
+    "grunt": "^1.5.3",
     "grunt-contrib-sass": "^2.0.0",
-    "sass": "^1.83.4"
+    "grunt-contrib-watch": "^1.1.0",
+    "sass": "^1.84.0"
   }
 }
